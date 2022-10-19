@@ -1,5 +1,5 @@
-------------------------- TUGAS PRAKTIKUM ------------------------------
-    Proses / Langkah-Langkah Praktikum Menggunakan Python
+<h1 style="color:blue;"> TUGAS PRAKTIKUM </h1>
+    <p style="color:red;">Proses / Langkah-Langkah Praktikum Menggunakan Python</p>
 
 
 ### Untuk menjalankan proses/langkah-langkah praktikum
