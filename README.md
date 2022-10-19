@@ -38,22 +38,22 @@
 ![fungsi input](https://user-images.githubusercontent.com/79274212/196760502-60f31d9e-8417-4e49-9648-06f39f1e38eb.PNG)
 
 3.  Hasil dari langkah 1 dan 2, seperti gambar berikut ini :
-
     Melalui IDLE Shell 3.10.8
+
 ![hasil](https://user-images.githubusercontent.com/79274212/196763454-a1d855cf-bb14-4773-9700-5ed4cde8f676.PNG)
 
-    Melalui vscode
+*   Melalui vscode
+
 ![vcode](https://user-images.githubusercontent.com/79274212/196762664-37ac9a94-73f6-4599-bea9-281c13b24772.PNG)
 
 
 ### Penjelasan Program
 
-    Menurut Saya program ptyhon lebih bersahabat untuk pengguna baru atau pemula dibanding kan program java.
-karena syntax yang dipakai lebih simple dan sederhana. namun untuk masing-masing latihan di atas dalam penggunaan syntax 'print()' huruf P tidak boleh besar dikarena akan eror pada saat run program. Tetapi untuk text di perbolehkan menggunakan huruf besar atau kecil, untuk latihan 1 dan 2 bagi saya yang baru belajar python tidak menemukan kesulitan namun untuk latihan soal 3 sedikit kesulitan dikarenakan belum terbiasanya dan sedikit pengetahuan tentang python , dll.
+*   Menurut Saya program ptyhon lebih bersahabat untuk pengguna baru atau pemula dibanding kan program java. karena syntax yang dipakai lebih simple dan sederhana. namun untuk masing-masing latihan di atas dalam penggunaan syntax 'print()' huruf P tidak boleh besar dikarena akan eror pada saat run program. Tetapi untuk text di perbolehkan menggunakan huruf besar atau kecil, untuk latihan 1 dan 2 bagi saya yang baru belajar python tidak menemukan kesulitan namun untuk latihan soal 3 sedikit kesulitan dikarenakan belum terbiasanya dan sedikit pengetahuan tentang python , dll.
 
 ### Kesimpulan 
 
-    Harus lebih banyak-banyak membaca tentang python dan cara penggunaanya dengan di praktikan. karena itu akan membuat kita mengetahui salah atau tidak nya syntax yang kita gunakan.
+*   Harus lebih banyak-banyak membaca tentang python dan cara penggunaanya dengan di praktikan. karena itu akan membuat kita mengetahui salah atau tidak nya syntax yang kita gunakan.
 
 
 
