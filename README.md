@@ -1,5 +1,13 @@
-<h1 style="color:blue;"> TUGAS PRAKTIKUM </h1>
-    <p style="color:red;">Proses / Langkah-Langkah Praktikum Menggunakan Python</p>
+Nama    : SOFYAN ARIF WIDIATKO
+--------------------------------------------------------------
+Nim     : 312210093
+--------------------------------------------------------------
+Kelas   : TI.22.B1
+--------------------------------------------------------------
+
+
+<h1> TUGAS PRAKTIKUM </h1>
+    <h2> Proses / Langkah-Langkah Praktikum Menggunakan Python </h2>
 
 
 ### Untuk menjalankan proses/langkah-langkah praktikum
